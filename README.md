@@ -5,6 +5,7 @@ The purpose of this repo is to only collect issues with the bapc-2021.ova image
    - https://2021.bapc.eu/bapc-2021.ova
  - in virtualbox you can load the .ova by selecting _File -> Import Applicance_
  - this file can also be loaded in other VM managers, but this has not been tested by us
+  - For Parallels in MacOS: Convert to .vmx with the free ovftool from VMWare: https://kb.parallels.com/en/122835. (thanks @mvlastuin)
  - if you find a problem, please create a new github issue in this repository
 
 ## Basic Information
