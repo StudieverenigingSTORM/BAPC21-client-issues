@@ -44,3 +44,10 @@ The purpose of this repo is to only collect issues with the bapc-2021.ova image
  - there are certain commands you can use to compile your code in the same way that DOMjudge will judge your submissions
  - you can find these commands by running the following command in a terminal:
    - cat ~/.bash_aliases
+
+## Providing feedback
+If you find things which you want changed;
+- please provide us with your `history`
+- The files which are needed to get it to `break`
+- A possible solution
+- Create an issue in this repo.
